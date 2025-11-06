@@ -55,6 +55,10 @@ Make sure these are installed on your computer:
   - Open your browser and visit:
   - http://localhost:3000.
 
+ ## Clone the Repository
+ git clone 
+
+
  ## Search & Filtering
 - Users can search snippets by:
 - Title
