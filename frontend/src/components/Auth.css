@@ -1,0 +1,79 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.snippet-overall {
+  min-height: 100vh;
+  width: 100%;
+  background-image: url('./Assets/snippet image.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 1;
+}
+
+.snippet-overall::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: inherit;
+  background-size: inherit;
+  background-position: inherit;
+  background-repeat: inherit;
+  z-index: -1;
+}
+
+.auth-container {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+  padding: 30px;
+  max-width: 400px;
+  margin: 40px auto;
+}
+.snippet h1{
+ background-color: #218838;
+}
+
+.auth-container input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.auth-container button {
+  width: 100%;
+  padding: 12px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+.auth-container button:hover {
+  background-color: #218838;
+}
+
+.toggle-text {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.toggle-link {
+  color: blue;
+  margin-left: 5px;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+
