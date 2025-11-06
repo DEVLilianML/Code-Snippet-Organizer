@@ -56,7 +56,7 @@ Make sure these are installed on your computer:
   - http://localhost:3000.
 
  ## Clone the Repository
- git clone 
+ git clone https://github.com/DEVLilianML/Code-Snippet-Organizer.git
 
 
  ## Search & Filtering
