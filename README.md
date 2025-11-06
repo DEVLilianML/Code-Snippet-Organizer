@@ -53,7 +53,7 @@ Make sure these are installed on your computer:
 
  # Access the App
   -Open your browser and visit:
-   http://localhost:3000
+   http://localhost:3000.
 
  ## Search & Filtering
 -Users can search snippets by:
