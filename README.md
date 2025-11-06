@@ -63,17 +63,17 @@ Make sure these are installed on your computer:
 -Multiple tags enable flexible retrieval 
 
 ## Security Highlights
-Feature	Benefit
-JWT Authentication ---	Secure API access
-Password Hashing  --	Protects user credentials
-Protected Routes  --	Only logged-in users can manage snippets
+# Feature	Benefit
+- JWT Authentication ---	Secure API access
+- Password Hashing  --	Protects user credentials
+- Protected Routes  --	Only logged-in users can manage snippets
 
 ## Project Status
 - Fully functional based on project requirements
 - Ready for deployment or further extension
 
   ## Author
-- Developed by: Obianuju Lilian Onuoha,
+- Developed by: Obianuju Lilian Onuoha
 - Instructor Code Snippet Management Tool — 2025
 
 
