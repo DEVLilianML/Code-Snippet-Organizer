@@ -56,11 +56,11 @@ Make sure these are installed on your computer:
   - http://localhost:3000.
 
  ## Search & Filtering
--Users can search snippets by:
--Title
--Tags
--Programming language
--Multiple tags enable flexible retrieval 
+- Users can search snippets by:
+- Title
+- Tags
+- Programming language
+- Multiple tags enable flexible retrieval 
 
 ## Security Highlights
 # Feature	Benefit
