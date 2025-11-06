@@ -14,46 +14,46 @@ A web-based tool designed to help instructors store, manage, and retrieve reusab
 
  ## Tech Stack Used
  # Frontend
- -React.js
- -JavaScript (ES6+)
- -React Router DOM
- -CSS (Custom Styling)
+ - React.js
+ - JavaScript (ES6+)
+ - React Router DOM
+ - CSS (Custom Styling)
 
   # Backend
-  -Node.js
-  -Express.js
-  -MongoDB (Local)
-  -Mongoose
-  -JSON Web Token (JWT)
-  -bcryptjs
-  -CORS
-  -dotenv
+  - Node.js
+  - Express.js
+  - MongoDB (Local)
+  - Mongoose
+  - JSON Web Token (JWT)
+  - bcryptjs
+  - CORS
+  - dotenv
 
 # User Roles
--Role	Ability
--Authenticated User	Add, View, Edit & Delete their own snippets
+- Role	Ability
+- Authenticated User	Add, View, Edit & Delete their own snippets
 
 # Installation & Setup Guide
 Make sure these are installed on your computer:
- -Node.js (v16+ recommended)
- -MongoDB Community Server (Local Database)
+ - Node.js (v16+ recommended)
+ - MongoDB Community Server (Local Database)
 
  ## Backend Setup
- -cd backend
+ - cd backend
 - npm install express mongoose cors dotenv bcryptjs jsonwebtoken nodemon
 
   # Run the backend server
-  -node server.js
+  - node server.js
 
   ## Frontend Setup
 - npm install react-router-dom axios
 
   # Start frontend:
-  -npm start
+  - npm start
 
  # Access the App
-  -Open your browser and visit:
-   http://localhost:3000.
+  - Open your browser and visit:
+  - http://localhost:3000.
 
  ## Search & Filtering
 -Users can search snippets by:
