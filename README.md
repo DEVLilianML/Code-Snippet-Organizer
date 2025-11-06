@@ -73,8 +73,8 @@ Protected Routes  --	Only logged-in users can manage snippets
 - Ready for deployment or further extension
 
   ## Author
--Developed by: Obianuju Lilian Onuoha
--Instructor Code Snippet Management Tool — 2025
+- Developed by: Obianuju Lilian Onuoha,
+- Instructor Code Snippet Management Tool — 2025
 
 
 
